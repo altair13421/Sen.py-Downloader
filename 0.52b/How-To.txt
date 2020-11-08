@@ -1,0 +1,25 @@
+It will Check Dependencies before-hand
+and Aill Download'em Once it's Sure it's Not There,
+So, Just Paste The Link, and Click Download Button
+
+for an Example Try 
+https://www.youtube.com/watch?v=7ePWNmLP0Z0
+=============================================================
+ChangeLog 0.52b
+- changed GUI To a Drastic Level
+- GUI is More User Friendly
+- Gui is a Proper GUI, If you Could call it a GUI in the Previous Version
+- Efficient code execution
+- Less Resource Usage
+ and More
+
+Still a Work in Progress, tho
+=============================================================
+Warning: DO NOT CLOSE THE COMMAND PROMPT WINDOW, 
+	IT SHOWS PROGRESS OF THE DOWNLOAD, when The Main
+	window is Stuck, (As I Said It's still a WIP)
+=============================================================
+Disclaimer: (There is Only One in This)
+	The Binaries Should Not be Distributed
+	But you can Keep the Binaries
+=============================================================

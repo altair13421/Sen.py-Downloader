@@ -1,0 +1,21 @@
+Install Python
+and Then Run The executable "Sen.Py Downloader (0.23b).exe"
+You will Have to Wait for it though
+Read Disclaimer, There is a Button
+"Check Dependencies", and Download an Install First (It will Do it For You)
+==================================================================================
+Sorry, Can't Share The Code with Anyone, Not just yet
+It's A Closed source Project, Sorry Again
+I'm Working on it, and So is my "team"
+
+Try this Youtube Link For A Try
+
+https://youtube.com/watch?v=dQw4w9WgXcQ
+===================================================================================
+Another Disclaimer: The Binaries Should Not be Distributed
+	But you can Keep the Binaries
+===================================================================================
+
+Changelog:
+==========
+ - First Prototype GUi Interface of Sen.py Downloader
